@@ -1,0 +1,7 @@
+[package]
+name = "thoughts"
+version = "0.1.0"
+authors = ["drozdowsky <hdrozdow+github@pm.me>"]
+edition = "2018"
+
+[dependencies]
